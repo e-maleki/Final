@@ -42,7 +42,7 @@ function clearInputs() {
   document.getElementById("dosage").value = "";
   document.getElementById("schedule").value = "";
 }
-// “I need three input fields in the HTML: one for the medication name, one for the dosage, and one f
+// “I need three input fields in the HTML: one for the medication name, one for the dosage, and one
 //for the schedule (like ‘daily at 2 PM’ or ‘weekly on Monday’). Each input should have an ID so I can 
 //access them in JavaScript: medName, dosage, and schedule. I also need a button with an onclick="addMedication()"
 //that runs the JS function. Finally, add a div with the ID medList so I can display the added medications there.”
